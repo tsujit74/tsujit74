@@ -6,7 +6,7 @@
 - 🌱 Currently learning: Full-Stack Dev, REST APIs, Testing (Cypress, Jest)
 - 🔨 Projects: Personalized Dashboard, Portfolio Generator, Online Quiz Maker, Job Board
 - 🧪 Tools: GitHub, Vercel, Firebase, MongoDB, VS Code, Postman
-- 📫 Email: thakursujit705@gmail.com
+- 📫 Email: tsujeet440@gmail.com
 - 🌐 Portfolio: [https://sujit-thakur.vercel.app](https://s-portfolio-tau.vercel.app/)
 
 ## 🛠️ Tech Stack
