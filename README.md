@@ -2,7 +2,7 @@
 
 🚀 Full Stack Developer (MERN) | Passionate about building interactive, scalable web apps
 
-<img src="./assets/banner.png" alt="Sujit Thakur Banner" style="width:100%; border-radius:10px;" />
+<img src="./banner.png" alt="Sujit Thakur Banner" style="width:100%; border-radius:10px;" />
 
 - 💻 Working with: **Next.js**, **React**, **TypeScript**, **Tailwind CSS**, **Redux Toolkit**
 - 🌱 Currently learning: Full-Stack Dev, REST APIs, Testing (Cypress, Jest)
