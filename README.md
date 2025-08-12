@@ -9,7 +9,7 @@
 - 🔨 Projects: Personalized Dashboard, Portfolio Generator, Online Quiz Maker, Job Board
 - 🧪 Tools: GitHub, Vercel, Firebase, MongoDB, VS Code, Postman
 - 📫 Email: tsujeet440@gmail.com
-- 🌐 Portfolio: [https://sujit-thakur.vercel.app](https://s-portfolio-tau.vercel.app/)
+- 🌐 Portfolio: [https://sujit-thakur.vercel.app](https://sujit-porttfolio.vercel.app/)
 
 ## 🛠️ Tech Stack
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
