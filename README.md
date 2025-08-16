@@ -7,12 +7,12 @@
 ---
 
 ## 📫 About Me
-- 💻 Working with: **Next.js**, **React**, **TypeScript**, **Tailwind CSS**, **Redux Toolkit**
+- 💻 Working with: **Next.js**, **React**, **Node.js**, **TypeScript**, **Tailwind CSS**, **Redux Toolkit**
 - 🌱 Currently learning: Full-Stack Dev, REST APIs, Testing (Cypress, Jest)
 - 🔨 Projects: Personalized Dashboard, Portfolio Generator, Online Quiz Maker, Job Board
 - 🧪 Tools: GitHub, Vercel, Firebase, MongoDB, VS Code, Postman
 - 📫 Email: **tsujeet440@gmail.com**
-- 🌐 Portfolio: [https://sujit-thakur.vercel.app](https://sujit-porttfolio.vercel.app/)
+- 🌐 Portfolio: [https://sujit-porttfolio.vercel.app/](https://sujit-porttfolio.vercel.app/)
 
 ---
 
@@ -86,9 +86,9 @@
 ---
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujit-thakur-)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujit-thakur-463b45229/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tsujit74)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://sujit-thakur.vercel.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://sujit-porttfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tsujeet440@gmail.com)
 
 ---
